@@ -2,9 +2,9 @@
 
 # Welcome to My Repository
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://tenor.com/view/frieren-crying-frieren-crying-gif-199542684162590099" alt="Typing SVG" />
-</div>
+</div> -->
 
 ![thinking-hmm](https://github.com/user-attachments/assets/9e195bdf-27d7-4355-85dc-d9a97071ebea)
 
@@ -12,7 +12,7 @@
 
 ##About Me
 
-> _"First, solve the problem. Then, write the code."_ — John Johnson
+> _"First, solve the problem. Then, write the code."_ — 
 
 - 📍 Based in `Thailand`
 - 🎨 Portfolio: [My Portfolio](https://jiranon-k.yozora.me/)
