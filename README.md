@@ -18,7 +18,7 @@
 
 - Based in **Thailand**
 - Portfolio: [My Portfolio](#)
-- Contact: []()
+- Contact: [karnnapat.k.03@gmail.com](karnnapat.k.03@gmail.com)
 - Currently learning **API Development** & **Advanced Web Technologies**
 - Fun fact: I love discovering new technologies and optimizing code.
 
@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/Angular-AA77FF?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-B57DFF?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-C183FF?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apollo_GraphQL-CD89FF?style=for-the-badge&logo=apollographql&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & Database
@@ -64,7 +63,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-9D72FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-AA77FF?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-B57DFF?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 </div>
@@ -82,14 +80,14 @@
 
 ## Connect With Me
 
-<!-- <div align="center">
-  <a href="https://discordapp.com/users/ninelie_x">
+<div align="center">
+  <a href="https://discordapp.com/users/_nabe">
     <img src="https://img.shields.io/badge/Discord-9D72FF?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://github.com/yooonabi">
     <img src="https://img.shields.io/badge/GitHub-AA77FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div> -->
+</div>
 
 <br>
 
