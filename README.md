@@ -2,9 +2,9 @@
 
 # Welcome to My Repository
 
-<!-- <div align="center">
-  <img src="https://tenor.com/view/frieren-crying-frieren-crying-gif-199542684162590099" alt="Typing SVG" />
-</div> -->
+<div align="center">
+  <div class="tenor-gif-embed" data-postid="17630743260529690128" data-share-method="host" data-aspect-ratio="0.919679" data-width="100%"><a href="https://tenor.com/view/sousou-no-frieren-frieren-beyond-journey%27s-end-s2-crying-gif-17630743260529690128">Sousou No Frieren Frieren GIF</a>from <a href="https://tenor.com/search/sousou+no+frieren-gifs">Sousou No Frieren GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div> 
 
 ![thinking-hmm](https://github.com/user-attachments/assets/9e195bdf-27d7-4355-85dc-d9a97071ebea)
 
@@ -15,15 +15,13 @@
 > _"First, solve the problem. Then, write the code."_ — 
 
 - 📍 Based in `Thailand`
-- 🎨 Portfolio: [My Portfolio](https://jiranon-k.yozora.me/)
-- 📧 Contact: [jiranon46@gmail.com](mailto:jiranon46@gmail.com)
+- 🎨 Portfolio: [My Portfolio]()
+- 📧 Contact: [jiranon46@gmail.com]()
 - 📖 Currently learning `API`
 - 🕐 Last Active: `2025-02-05 21:28:47 UTC`
 
 <div align="center">
   
-[![Followers](https://img.shields.io/github/followers/Jiranon-K?logo=github&style=for-the-badge&color=9D72FF&labelColor=1a1b27)](https://www.github.com/Jiranon-K)
-
 </div>
 
 ##Tech Stack
@@ -61,7 +59,7 @@
   <img src="https://img.shields.io/badge/GraphQL-CD89FF?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-###Tools
+### Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-9D72FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
