@@ -75,7 +75,10 @@
 
 <div align="center">
   <a href="https://github.com/yooonabi">
-    <img src="https://github-readme-stats.vercel.app/api?username=yooonabi&show_icons=true&theme=radium&hide_border=true" alt="yooonabi's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yooonabi&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=9D72FF&title_color=B57DFF" alt="yooonabi's GitHub Stats" />
+  </a>
+  <a href="https://github.com/yooonabi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yooonabi&theme=radium&hide_border=true&background=0D1117&ring=9D72FF&fire=AA77FF&currStreakNum=B57DFF" alt="yooonabi's GitHub Streak" />
   </a>
 </div>
 
