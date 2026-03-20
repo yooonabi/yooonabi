@@ -2,9 +2,13 @@
 
 <img src="https://media.tenor.com/b2bV_nE7w8oAAAAC/sousou-no-frieren-frieren-beyond-journeys-end-s2-crying.gif" width="300" />
 
-# Hi there! I'm Jiranon 👋
+# Hi there! I'm  👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D72FF&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Web+Developer;Always+learning+new+things!" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://github.com/yooonabi/yooonabi/blob/main/assets/Tantrum Crying GIF.gif?v=2" alt="thinking-hmm">
+</p>
 
 </div>
 
@@ -14,7 +18,7 @@
 
 - 📍 Based in **Thailand**
 - 🎨 Portfolio: [My Portfolio](#)
-- 📧 Contact: [jiranon46@gmail.com](mailto:jiranon46@gmail.com)
+- 📧 Contact: []()
 - 📖 Currently learning **API Development** & **Advanced Web Technologies**
 - ⚡ Fun fact: I love discovering new technologies and optimizing code.
 
@@ -24,7 +28,7 @@
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-9D72FF?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -35,7 +39,7 @@
   <img src="https://img.shields.io/badge/CSS3-D499FF?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🎨 Frameworks & Libraries
+### Frameworks & Libraries
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-9D72FF?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -55,7 +59,7 @@
   <img src="https://img.shields.io/badge/GraphQL-CD89FF?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-9D72FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -67,7 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Jiranon-K">
@@ -80,7 +84,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://discordapp.com/users/ninelie_x">
